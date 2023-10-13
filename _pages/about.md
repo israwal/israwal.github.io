@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a research engineer at [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar) at A*STAR Singapore in [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan)'s Team working on interpretable and explainable multimodal models. I frequently collaborate with [Dr. Basura Fernando](https://basurafernando.github.io/) and [Prof. Gemma Roig](cvai.cs.uni-frankfurt.de).
+Hi! I am a research engineer at [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar) at A*STAR Singapore in [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan)'s Team working on interpretable and explainable multimodal models. I frequently collaborate with [Dr. Basura Fernando](https://basurafernando.github.io/) and [Prof. Gemma Roig](https://cvai.cs.uni-frankfurt.de).
 
 Bio
 ---
 I graduated from BITS Pilani with B.Engg. in Computer Science and (Integrated) M.Sc. in Biological Sciences in 2022. 
 During my undergraduate degree, I worked on bioinformatics, formal language modeling, algorithms and deep learning. 
 The exploration spree ultimately settled at deep learning, where I am interested in black-box understanding and explainability to ameliorate biases and improve trustworthiness.
-Hence, I spent a wonderful semester in  Germany working with [Prof. Gemma Roig](cvai.cs.uni-frankfurt.de) and [Prof. Radek Cichy](http://userpage.fu-berlin.de/rmcichy/) working on video reconstruction as a part of my thesis.
+Hence, I spent a wonderful semester in  Germany working with [Prof. Gemma Roig](https://cvai.cs.uni-frankfurt.de) and [Prof. Radek Cichy](http://userpage.fu-berlin.de/rmcichy/) working on video reconstruction as a part of my thesis.
 At A*STAR, I am working on interpreting and benchmarking the pitfalls of VideoQA transformer models.
 
 For more details, refer to my CV.
