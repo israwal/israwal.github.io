@@ -23,7 +23,7 @@ For more details, refer to my CV.
 News
 ------
 - Aug 2023: Joined A*STAR's [Artificial Intelligence, Analytics & Informatics (AI3)](https://www.a-star.edu.sg/htco/ai3) initiative to lead the Embodied Social Intelligence Special Interest Group. 
-- July 2023: Invited speaker at [AAAI Summer Symposium: Embodied Intelligence](https://sites.google.com/view/embodiedintelligence). Topic: "_Do Vision Language Models Understand Socio-Physical Interactions?_ ".
+- July 2023: Invited speaker at [AAAI Summer Symposium: Embodied Intelligence](https://sites.google.com/view/embodiedintelligence). Topic: "_Do Vision Language Models Understand Socio-Physical Interactions?_".
 - Oct 2022: Joined A*STAR as a research engineer.
 - July 2022: Graduated from BITS Pilani with distinction!
 
