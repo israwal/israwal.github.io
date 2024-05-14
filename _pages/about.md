@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a research engineer at [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar) at A*STAR Singapore in [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan)'s Team working on interpretable and explainable multimodal models. I frequently collaborate with [Dr. Basura Fernando](https://basurafernando.github.io/) and [Prof. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de).
+Hi! I am a research engineer at [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar) at A*STAR Singapore in [Dr. Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan)'s Team working on exaplinable AI. I frequently collaborate with [Dr. Basura Fernando](https://basurafernando.github.io/) and [Prof. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de).
 
 Bio
 ---
@@ -22,10 +22,12 @@ For more details, refer to my CV.
 
 News
 ------
+- May 2024: Our latest research on dissecting multimodality in VideoQA models has been accepted to ICML 2024! Vienna incoming! 
+- Apr 2024: I will be joining MS CS Program at Texas A&M University, College Station! **I'll be in the internship market for Summer 2025. Reach me out if you have any ML/MLSys opportunities!**
 - Aug 2023: Joined A*STAR's [Artificial Intelligence, Analytics & Informatics (AI3)](https://www.a-star.edu.sg/htco/ai3) initiative to lead the Embodied Social Intelligence Special Interest Group. 
-- July 2023: Invited speaker at [AAAI Summer Symposium: Embodied Intelligence](https://sites.google.com/view/embodiedintelligence). Topic: "_Do Vision Language Models Understand Socio-Physical Interactions?_".
+- Jul 2023: Invited speaker at [AAAI Summer Symposium: Embodied Intelligence](https://sites.google.com/view/embodiedintelligence). Topic: "_Do Vision Language Models Understand Socio-Physical Interactions?_".
 - Oct 2022: Joined A*STAR as a research engineer.
-- July 2022: Graduated from BITS Pilani with distinction!
+- Jul 2022: Graduated from BITS Pilani with distinction!
 
 Contact
 ------
